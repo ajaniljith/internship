@@ -1,5 +1,6 @@
 
 ![image](https://github.com/ajaniljith/internship/blob/main/img/Screenshot%20from%202023-05-12%2011-35-43.png)
+[tinker this](https://www.tinkercad.com/things/7G2r6yntIGZ)
 ```
 void setup()
 {
